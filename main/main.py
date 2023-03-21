@@ -1,7 +1,7 @@
 #%% 데이터 API
 
 
-from src.power_api import PowerAPI
+from nasa_power_api.src.power_api import PowerAPI
 
 # Create a new API object
 api = PowerAPI()
