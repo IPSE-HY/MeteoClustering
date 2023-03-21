@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.extraPaths": [
+        C:\Users\User\MeteoClustering\clustering\Lib\site-packages\requests,
+        C:\Users\User\MeteoClustering\nasa-power-api
+    ]
+    
+}
